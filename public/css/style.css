@@ -1,0 +1,77 @@
+html{
+	height: 100%;
+}
+body{
+	position: relative;
+	min-height: 100%;
+	padding-bottom: 5rem;
+}
+.pointer{
+	cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}
+
+
+/*Navber css*/
+.mr-auto, .mx-auto {
+    margin-right: auto!important;
+    margin-top: 12px;
+    margin-bottom: -10px;
+}
+/*End navber css*/
+
+/*   Product CSS  */
+
+.product-item{
+	background: #ebeff3;
+}
+.child-rows{
+	padding-left: 20px;
+}
+
+/*   End Product CSS  */
+
+
+.margin-top-20{
+	margin-top: 20px;
+}
+.feature-img{
+	max-height: 200px;
+}
+.footer-bottom{
+	overflow: hidden;
+	margin-top: 20px;
+	padding: 20px;
+	background-color: #ecf0f5!important;
+	position: absolute;
+	right: 0;
+	left: 0;
+	bottom: 0; 
+}
+
+.button-position{
+	margin-left: 35px;
+}
+.card h4 a{
+
+	text-decoration: none;
+	color: #0c2959;
+}
+.cont-shopping{
+	overflow: hidden;
+	margin-bottom: 15px;
+}
+/*.hovr-row:hover .card{
+	box-shadow: 0 14px 26px 0 rgba(0,0,0,0.2);
+}*/
+.feature-img{
+	
+	transition: transform .2s;
+}
+.feature-img:hover{
+	transform: scale(1.1);
+}
+

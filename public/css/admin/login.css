@@ -1,0 +1,12 @@
+/* CSS for Login page*/
+body {
+  	background-color: #343a40;
+}
+.card-header {
+    text-align: center;
+}
+.card {
+    max-width: 509px;
+}
+
+/* End CSS for Login page*/
